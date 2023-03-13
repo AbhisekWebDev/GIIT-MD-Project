@@ -144,6 +144,10 @@ html{
     display: block;
     margin: 2.5rem;
    }
+
+   .home .video h3{
+    padding-top: 2.5rem;
+   }
 }
 
 
@@ -228,6 +232,13 @@ section{
 
 .home .content{
     flex: 1 1 45rem;
+}
+
+.home .video h3{
+    font-size: 2.5rem;
+    color: var(--green);
+    line-height: 1.8;
+    text-align: center;
 }
 
 
