@@ -1,0 +1,6 @@
+image hover transition
+*****image edit*****
+image disease descriptions and preventions with images (infographics)
+table border design and hover effect (if possible)
+RAPID API implementation
+PHP LOGIN PAGE & FEEDBACK PAGE

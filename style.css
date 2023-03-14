@@ -547,6 +547,7 @@ section .table{
 
 table th{
     color: var(--green);
+    font-weight: bold;
 }
 
 table td{
@@ -557,10 +558,12 @@ th, td {
     width:150px;
     text-align:center;
     border:1px solid rgb(78, 77, 77);
+    box-shadow: var(--box-shadow);
     padding: 1rem;
     font-size: 1.5rem;
- 
+    border-radius: 20px;
 }
+
 .itms tr td{
     padding-bottom: 2rem;
     font-size: 1.5rem;
@@ -609,3 +612,9 @@ div img{
 .liver, .heart{
     text-align: center;
 }
+
+
+
+
+
+
